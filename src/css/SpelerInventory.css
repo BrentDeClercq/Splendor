@@ -1,0 +1,64 @@
+.vbox {
+  -fx-border-color: #bd9757;
+  -fx-border-width: 5px;
+  -fx-padding: 10;
+  -fx-spacing: 8;
+  -fx-border-radius: 8px;
+}
+
+#edelsteen {
+  -fx-border-style: solid;
+  -fx-border-radius: 50%;
+  -fx-min-width: 40px;
+  -fx-min-height: 40px;
+  -fx-max-width: 40px;
+  -fx-max-height: 40px;
+  -fx-alignment: center;
+  -fx-text-alignment: center;
+  -fx-background-radius: 50%;
+}
+
+.edelsteen1 {
+  -fx-background-color: #4f3122;
+  -fx-text-fill: white;
+}
+
+.edelsteen2 {
+  -fx-background-color: white;
+}
+
+.edelsteen3 {
+  -fx-background-color: #c72026;
+  -fx-text-fill: white;
+}
+
+.edelsteen4 {
+  -fx-background-color: #4fa55e;
+}
+
+.edelsteen5 {
+  -fx-background-color: #436eb3;
+}
+
+#speler,
+#prestige {
+  -fx-border-style: solid;
+  -fx-min-width: 100px;
+  -fx-min-height: 40px;
+  -fx-alignment: center;
+  -fx-text-alignment: center;
+  -fx-border-color: transparent;
+}
+
+#edelstenen {
+  -fx-border-style: solid;
+  -fx-min-width: 200px;
+  -fx-min-height: 40px;
+  -fx-padding: 10px;
+  -fx-border-color: transparent;
+}
+
+#edelstenenEnBonussen {
+  -fx-text-alignment: center;
+  -fx-alignment: center;
+}
