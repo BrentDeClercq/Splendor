@@ -1,6 +1,6 @@
 # Splendor - Software Development Project I (2022-2023)
 
-## Spelers in database
+## Spelers in database (niet meer beschikbaar)
 
 | Gebruikersnaam | Geboortejaar |
 | :------------- | :----------- |
